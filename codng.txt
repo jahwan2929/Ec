@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+ <html>
+    <meta charset="utf-8">
+     <meta />
+     <title>Create</title>
+     <link rel="shortcut icon" type="image/x-icon" href="https://image.flaticon.com/icons/png/512/97/97777.png">
+ > <head>
+ <body>
+<h1>
+     <a href="https://www.naver.com">네이버</a>
+     <!-- https://www.naver.com -->
+     <--https://www.naver.com
+ <h1>
+ <h2>검색창</h2>
+<fieldset>
+<legend>검색</legend>
+<input type="쓰기">
+<button>검색</button>
+</fieldset>
+<body>
+<ul>
+<li><a href="https://mail.naver.com">메일</a>
+<li><a href="https://cafe.naver.com">카페</a>
+<li><a href="https://blog.naver.com">블로그</a>
+<li><a href="https://kin.naver.com/">지식iN</a>
+<li><a href="https://shopping.naver.com">쇼핑 </a>
+<li><a href="https://shoppinglive.naver.com/home">쇼핑LIVE</a>
+<li><a href="https://new-m.pay.naver.com/">Pay</a>
+<li><a href="https://tv.naver.com/">TV</a>
+</ul>
+</body>
+
+
+
+<html>
+<li>메일</li>
+<li>카페</li>
+<li>블로그</li>
+<li>지식iN</li>
+<li>쇼핑</li>
+<li>쇼핑LIVE</li>
+<li>Pay</li>
+<li>TV</li>
+</html>
+
+
